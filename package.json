@@ -1,0 +1,23 @@
+{
+  "name": "com.Nekropants.AssetNameEnforcer",
+  "version": "0.0.1",
+  "displayName": "Asset Name Enforcer",
+  "description": "A unity tool for enforcing asset name and folder structure standards",
+  "unity": "2021",
+  "unityRelease": "",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+  },
+  "keywords": [
+    "Editor",
+    "NamingStandards",
+    "Hygeine"
+  ],
+  "author": {
+    "name": "Nekropants",
+    "email": "richard@nekropants.cpm",
+    "url": "https://www.nekropants.com"
+  }
+}
