@@ -1,23 +1,20 @@
 {
-  "name": "com.Nekropants.AssetNameEnforcer",
+  "name": "com.nekropants.assetruleenforcer",
   "version": "0.0.1",
-  "displayName": "Asset Name Enforcer",
-  "description": "A unity tool for enforcing asset name and folder structure standards",
-  "unity": "2021",
-  "unityRelease": "",
-  "documentationUrl": "",
-  "changelogUrl": "",
-  "licensesUrl": "",
-  "dependencies": {
-  },
+  "displayName": "Asset Rule Enforcer",
+  "description": "",
+  "unity": "2019.1",
+  "unityRelease": "0b1",
   "keywords": [
-    "Editor",
-    "NamingStandards",
-    "Hygeine"
+    "hygiene",
+    "naming",
+    "standards",
+    "editor"
   ],
   "author": {
     "name": "Nekropants",
-    "email": "richard@nekropants.cpm",
-    "url": "https://www.nekropants.com"
-  }
+    "email": "nekropants@gmail.com",
+    "url": "https://github.com/nekropants/AssetRuleEnforcer"
+  },
+  "type": "tool"
 }
